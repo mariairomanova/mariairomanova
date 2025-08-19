@@ -1,9 +1,10 @@
- 👩‍💻About me:
-🎓 Fourth year student at University of Plovdiv Paisii Hilendarski
-📚 Studying Software technology and design
-☕ Passionate about Java development
-🔍 Currently looking for opportunities to apply my skills through internships and real-world projects
+## 🤚Hi there, I'm Maria 
+ 👩‍💻About me:<br/>
+🎓 Fourth year student at University of Plovdiv Paisii Hilendarski<br/>
+📚 Studying Software technology and design<br/>
+☕ Passionate about Java development<br/>
+🔍 Currently looking for opportunities to apply my skills through internships and real-world projects<br/>
 
- 📩 Contact
-Email: mariyairоmanova@gmail.com
-GitHub: github.com/mariairomanova
+ 📩 Contact<br/>
+Email: mariyairоmanova@gmail.com<br/>
+GitHub: github.com/mariairomanova<br/>
