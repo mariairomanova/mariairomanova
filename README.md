@@ -6,5 +6,5 @@
 🔍 Currently looking for opportunities to apply my skills through internships and real-world projects<br/>
 
 <n> 📩 Contact<br/>
-Email: mariyairоmanova@gmail.com<br/>
+Email: mariyairomanova@gmail.com<br/>
 GitHub: github.com/mariairomanova<br/>
